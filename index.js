@@ -28,6 +28,6 @@ function Divicion(a,b) {
     return a / b
 }
 
-Divición(9,1)
+Divicion(9,1)
 
 

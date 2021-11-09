@@ -12,7 +12,7 @@ function Restar(a,b) {
     return a - b
 }
 
-Restar(13,5)
+Restar(23,2)
 
 //multiplicación
 function Multiplicacion(a,b) {
@@ -21,5 +21,13 @@ function Multiplicacion(a,b) {
 }
 
 Multiplicacion(3,6)
+
+//Divición
+function Divicion(a,b) {
+    console.log(a/b)
+    return a / b
+}
+
+Divición(9,1)
 
 
